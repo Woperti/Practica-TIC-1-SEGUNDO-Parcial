@@ -18,9 +18,9 @@ añadir las imagenes.
 a) En el encabezado de la primera pagina debera contener los logotipos del colegio
 y de educacion.
 b) Poner nombres de los integrantes completos, materia, grupo, nombre del trabajo.
-c) la prinera apgina no debe contener numeracion.
+c) la primera pagina no debe contener numeracion.
 
-2. Empezar la numeración desde el numero 2, es decir en la página dos, se msptrara en el pie de pagina.
+2. Empezar la numeración desde el numero 2, es decir en la página dos, se mostrará en el pie de pagina.
 
 
    
