@@ -14,6 +14,13 @@ Cambiar el nombre del documento: nombreProyecto-grupo
 Guardar en una carpeta con el nombre del proyecto y grupo
 añadir las imagenes.
 
-1. Crear la portada
+1. Crear la portada con lo siguiente.
+a) En el encabezado de la primera pagina debera contener los logotipos del colegio
+y de educacion.
+b) Poner nombres de los integrantes completos, materia, grupo, nombre del trabajo.
+c) la prinera apgina no debe contener numeracion.
+
+2. Empezar la numeración desde el numero 2, es decir en la página dos, se msptrara en el pie de pagina.
+
 
    
